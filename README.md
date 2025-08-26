@@ -8,7 +8,6 @@ Backend engineer | Java & Spring Boot | Passionate about building scalable syste
 ### About Me
 - 2+ years experience in Java, Spring Boot & microservices  
 - Solving DSA challenges regularly to strengthen problem-solving skills  
-- Interested in healthcare & enterprise applications  
 
 ---
 

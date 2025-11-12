@@ -1,12 +1,12 @@
 <!-- ─────────────────────────────────────────────────────────── -->
 ## Hi there, I'm **Ramya Sri** 👋
 
-Backend engineer | Java & Spring Boot | Passionate about building scalable systems  
+Full Stack engineer | Java & Spring Boot | Passionate about building scalable systems  
 
 ---
 
 ### About Me
-- 2+ years experience in Java, Spring Boot & microservices  
+- 2+ years experience in Java, Spring Boot, microservices, Javascript, Angular & MySQL
 - Solving DSA challenges regularly to strengthen problem-solving skills  
 
 ---

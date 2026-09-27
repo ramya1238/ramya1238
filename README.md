@@ -1,18 +1,18 @@
 <!-- ─────────────────────────────────────────────────────────── -->
 ## Hi there, I'm **Ramya Sri** 👋
 
-Full Stack engineer | Java & Spring Boot | Passionate about building scalable systems  
+Java Engineer | Java & Spring Boot | Passionate about building scalable systems  
 
 ---
 
 ### About Me
-- 2+ years experience in Java, Spring Boot, microservices, Javascript, Angular & MySQL
+- 3 years experience in Java, Spring Boot, microservices and MySQL
 - Solving DSA challenges regularly to strengthen problem-solving skills  
 
 ---
 
 ### Tech Stack
-**Java | Spring Boot | React | Angular | MySQL | Redis | Kafka | Git | AWS | Stripe | OAuth 2.0**
+**Java | Spring Boot | MySQL | Redis | Kafka | Git | AWS | Stripe | OAuth 2.0**
 
 ---
 
